@@ -3,3 +3,5 @@ Todo:
 - Learn Java
 - Learn OOP
 - Learn QE
+- Read some books
+- Do some assignments
