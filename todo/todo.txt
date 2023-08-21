@@ -6,3 +6,5 @@ Todo:
 - Learn C++
 - Learn PHP
 - Learn Go Lang
+- Read some books
+- Do some assignments
