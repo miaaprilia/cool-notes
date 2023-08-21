@@ -1,0 +1,4 @@
+Todo:
+
+- Learn Java
+- Learn OOP
