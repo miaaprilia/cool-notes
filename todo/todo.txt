@@ -2,3 +2,4 @@ Todo:
 
 - Learn Java
 - Learn OOP
+- Learn QE
