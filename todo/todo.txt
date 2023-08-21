@@ -4,3 +4,5 @@ Todo:
 - Learn OOP
 - Learn QE
 - Learn C++
+- Learn PHP
+- Learn Go Lang
